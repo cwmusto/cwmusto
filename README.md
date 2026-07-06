@@ -1,9 +1,8 @@
-
 # 🤖 cwmusto | AI & Software Architecture
 
 <p align="center">
-  <!-- GitHub'ın kendi sunucularından çekeceği, kırılma ihtimali olmayan canlı siber animasyon -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Matrix Animation" />
+  <!-- GitHub'ın kendi sisteminde barınan, kırılmayan, canlı dönen siber dünya veri akışı animasyonu -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Matrix Globe Animation" />
 </p>
 
 ---
@@ -11,7 +10,6 @@
 ### 🧠 Canlı Sistem Matrisi
 
 <p align="center">
-  <!-- Link kırılmalarını önlemek için alternatif ve kararlı stat-kart altyapısı -->
   <a href="https://github.com/cwmusto">
     <img src="https://github-readme-stats.vercel.app/api?username=cwmusto&show_icons=true&theme=tokyonight&count_private=true" alt="cwmusto stats" />
   </a>
