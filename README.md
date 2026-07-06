@@ -1,4 +1,4 @@
-<!-- 🔥 BAŞLIK: Dinamik AI ve Veri Mühendisliği Matrisi -->
+<!-- BAŞLIK: Dinamik AI ve Veri Mühendisliği Matrisi -->
 ![Cyberpunk AI Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=cwmusto&fontSize=90&animation=fadeIn&fontAlign=80&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Engineering&descSize=30&descAlign=80&descAlignY=65)
 
 ---
@@ -17,7 +17,7 @@
 ### 📊 Sistem Matrisi (Canlı Veriler)
 
 <p align="center">
-  <!-- Temalar, AI animasyonunun siber renklerine uyum sağlaması için 'Dracula' olarak ayarlandı. -->
+  <!-- GitHub İstatistik Kartları: Yüklenmeme ihtimaline karşı daha güvenilir ve uyumlu 'Dracula' temasını teyit ettik. -->
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=cwmusto&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true" alt="cwmusto's GitHub Stats" />
   
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwmusto&layout=compact&theme=dracula&hide_langs_below=1&hide_border=true" alt="cwmusto's Top Languages" />
@@ -29,8 +29,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <!-- İkon listesini kendi projelerine göre özelleştirebilirsin. -->
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,unity,visualstudio,github,git,postgresql,firebase,aws,docker&perline=13" />
   </a>
+</p>
+
+---
+
+### 📊 Aktivite Matrisi
+
+<p align="center">
+  <!-- Bu grafik, aktiviteyi daha görsel ve dinamik bir veri akışı olarak gösterir. -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwmusto&theme=tokyonight&area=true&hide_border=true&hide_title=true" alt="cwmusto's Activity Graph" />
 </p>
 
 ---
