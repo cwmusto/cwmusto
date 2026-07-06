@@ -1,9 +1,10 @@
-# 🤖 cwmusto | AI & Software Architecture
-
-<p align="center">
-  <!-- Bu link, doğrudan popüler bir açık kaynaklı veri akışı/dünya animasyonuna bağlanır -->
-  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/templates/cyberpunk/cyberpunk.gif" width="100%" alt="AI Globe Animation" />
-</p>
+<h1 align="center">
+  <img src="ai-globe-animation.gif" width="100%" alt="cwmusto | Artificial Intelligence & Software Architecture" />
+  <br>
+  🤖 cwmusto (Mustafa Kızılsoy)
+  <br>
+  <sub style="font-size: 0.7em;">Fırat Üniversitesi Bilgisayar Mühendisliği</sub>
+</h1>
 
 ---
 
