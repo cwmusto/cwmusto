@@ -1,16 +1,26 @@
-<!-- Başlık: Siber-Cyberpunk AI Estetiği -->
-![Cyberpunk AI Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=cwmusto&fontSize=90&animation=fadeIn&fontAlign=80&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Engineering&descSize=30&descAlign=80&descAlignY=65)
+<!-- 🔥 BAŞLIK: Dinamik AI ve Veri Mühendisliği Matrisi -->
+![Cyberpunk AI Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=cwmusto&fontSize=90&animation=fadeIn&fontAlign=80&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Engineering&descSize=30&descAlign=80&descAlignY=65)
 
 ---
 
-### 🧠 Sistem Matrisi (Canlı Veriler)
+### 🧠 SİSTEM BEYNİ: Canlı AI Veri Akışı
 
 <p align="center">
-  <!-- GitHub Ana İstatistikleri: Dark/Dracula Teması -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=cwmusto&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true" alt="cwmusto's GitHub Stats" />
+  <!-- Bu GIF, sürekli döngüde olan siber bir AI beyni ve veri ağını gösterir. -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRsdTNqbm96bXoxem00Z3FkZmF5Z3VzazlnMXdyazhnbGRwNmdhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCqlZ0y3u/giphy.gif" alt="AI Network Animation" width="600" />
+</p>
+
+> *"Matrisin kalbinde, veriler fikirleri şekillendirir."*
+
+---
+
+### 📊 Sistem Matrisi (Canlı Veriler)
+
+<p align="center">
+  <!-- Temalar, AI animasyonunun siber renklerine uyum sağlaması için 'Dracula' olarak ayarlandı. -->
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=cwmusto&show_icons=true&theme=dracula&count_private=true&hide_border=true&include_all_commits=true" alt="cwmusto's GitHub Stats" />
   
-  <!-- En Çok Kullanılan Diller: Dark/Dracula Teması -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwmusto&layout=compact&theme=dracula&hide_langs_below=1&hide_border=true" alt="cwmusto's Top Languages" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwmusto&layout=compact&theme=dracula&hide_langs_below=1&hide_border=true" alt="cwmusto's Top Languages" />
 </p>
 
 ---
@@ -19,18 +29,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- İkon listesini kendi projelerine göre özelleştirebilirsin, AI ve Veri araçlarını öne çıkardım -->
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,unity,visualstudio,github,git,postgresql,firebase&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,unity,visualstudio,github,git,postgresql,firebase,aws,docker&perline=13" />
   </a>
-</p>
-
----
-
-### 📊 Son Katkılar & Sistem Aktivitesi
-
-<p align="center">
-  <!-- Katkı grafiğini daha net ve estetik bir visual ile gösterir -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwmusto&theme=tokyonight&area=true&hide_border=true&hide_title=true" alt="cwmusto's Activity Graph" />
 </p>
 
 ---
@@ -38,7 +38,6 @@
 ### 💬 İletişim Protokolleri
 
 <p align="center">
-  <!-- Kendi iletişim bilgilerini buraya ekleyebilirsin -->
   <a href="mailto:eposta-adresin@example.com">
     <img src="https://img.shields.io/badge/Contact%20Me-AI--Support-blue?style=for-the-badge&logo=openai&logoColor=white" alt="Contact Me" />
   </a>
