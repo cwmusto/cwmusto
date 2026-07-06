@@ -1,8 +1,8 @@
 # 🤖 cwmusto | AI & Software Architecture
 
 <p align="center">
-  <!-- GitHub'ın kendi sisteminde barınan, kırılmayan, canlı dönen siber dünya veri akışı animasyonu -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Matrix Globe Animation" />
+  <!-- Bu link, doğrudan popüler bir açık kaynaklı veri akışı/dünya animasyonuna bağlanır -->
+  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/templates/cyberpunk/cyberpunk.gif" width="100%" alt="AI Globe Animation" />
 </p>
 
 ---
@@ -10,9 +10,7 @@
 ### 🧠 Canlı Sistem Matrisi
 
 <p align="center">
-  <a href="https://github.com/cwmusto">
-    <img src="https://github-readme-stats.vercel.app/api?username=cwmusto&show_icons=true&theme=tokyonight&count_private=true" alt="cwmusto stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cwmusto&show_icons=true&theme=tokyonight&count_private=true" alt="cwmusto stats" />
 </p>
 
 ---
@@ -23,12 +21,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,unity,postgres,git,github,vscode&perline=10" />
   </a>
-</p>
-
----
-
-### 📊 Aktivite Grafiği
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwmusto&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </p>
