@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="ai-globe-animation.gif" width="100%" alt="cwmusto | Artificial Intelligence & Software Architecture" />
+  <img src="banner.png" width="100%" alt="cwmusto | Artificial Intelligence & Software Architecture" />
   <br>
    cwmusto (MUSTAFA KIZILSOY)
   <br>
