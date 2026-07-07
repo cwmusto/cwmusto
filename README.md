@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="ai-globe-animation.gif" width="100%" alt="cwmusto | Artificial Intelligence & Software Architecture" />
   <br>
-  🤖 cwmusto (Mustafa Kızılsoy)
+   cwmusto (MUSTAFA KIZILSOY)
   <br>
-  <sub style="font-size: 0.7em;">Fırat Üniversitesi Bilgisayar Mühendisliği</sub>
+  <sub style="font-size: 0.7em;">FIRAT UNIVERSITY</sub>
 </h1>
 
 ---
